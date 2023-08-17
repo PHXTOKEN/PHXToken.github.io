@@ -1,33 +1,26 @@
-Astral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+To find their social media links, you can use the following search terms:
+
+Twitter: Search for "Phoenixx Club NFT Token Twitter" or visit twitter.com and search for "@PhoenixxClubnft" or "@PhoenixxClubnft."
+
+Instagram: Search for "Phoenixx Club NFT Token Instagram" or visit instagram.com and search for "@phoenixxclubnfts" or "phoenixxclubnfts."
+
+Telegram Group: Search for "Phoenixx Club NFT Token Telegram group" or visit the Telegram app and search for "Phoenixx Club NFT Token" in the groups section.
+
+PHX is a decentralized NFT ecosystem revolutionizing the digital collectibles market, empowering artists and collectors worldwide. It offers exclusive NFT access, potential for lucrative returns, and community governance for investors.
 
 
-First of its kind on H5U! Astral features a flat, minimalistic design, a fully animated
-interface (with noscript fallbacks), and styling for all basic page elements (including
-blockquotes, tables and lists). Enjoy!
+7 point about the generation of PHX
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+1. Cutting-edge Blockchain Technology: Phoenixx Club NFT Token (PHX) is built on advanced blockchain technology, ensuring secure and transparent transactions for the creation and trading of digital collectibles.
 
-(* = Not included)
+2. Limited Edition NFTs: PHX offers a collection of seven unique fantasy NFTs, each with only 100 copies, enhancing their exclusivity and value for collectors.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+3. Artist Empowerment: The platform provides artists with a direct and decentralized marketplace to showcase their digital artworks, enabling them to monetize their creations and reach a global audience.
 
-AJ
-aj@lkn.io | @ajlkn
+4. Exclusive Benefits for Holders: PHX token holders enjoy access to exclusive benefits, including priority access to new releases, special discounts, and participation in private events.
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+5. Growing Ecosystem: With strategic partnerships and collaborations, PHX aims to expand its ecosystem, attracting renowned artists and influential figures in the NFT space.
 
+6. Transparent Governance: PHX token holders have a say in the platform's future through community governance, fostering a democratic and inclusive decision-making process.
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+7. Value Appreciation Potential: As the NFT market continues to grow, early investors in PHX have the opportunity to benefit from the potential appreciation in token value driven by market demand.
